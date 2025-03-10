@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ### Env setup
-Than create .env file (or rename the example one), and will with he values from instruction inside
+Create .env file (or rename the example one), and will with he values from instruction inside
 
 ### Run from the project home directory using 
 For UNIX:
